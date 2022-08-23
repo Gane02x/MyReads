@@ -1,5 +1,5 @@
 # Before Starting
-Make sure to run "npm install" as well as "npm i react-router-dom" in the starter repo to install all node modules
+Make sure to run "npm install" in the starter repo to install all node modules
 After completing those steps, you are ready to start the dev server
 
 ## About the project
